@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: manoj411/devopsproject2:16
+        image: manoj411/devopsproject2:17
         ports:
         - containerPort: 8080
 
